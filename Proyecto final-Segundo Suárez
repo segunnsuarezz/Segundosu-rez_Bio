@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Conceptos Biológicos</title>
+  <link rel="stylesheet" href="estilos.css">
+</head>
+<body>
+  <header>
+    <h1>Conceptos Biológicos</h1>
+  </header>
+  <div class="container">
+    <section>
+      <h2>Origen de la Vida</h2>
+      <p>Teorías sobre el origen de la vida incluyen la abiogénesis (formación de vida a partir de materia no viva) y la panspermia (hipótesis de que la vida se originó en otros lugares del universo y llegó a la Tierra).</p>
+    </section>
+    <section>
+      <h2>Evolución</h2>
+      <p>La teoría de la evolución de Darwin propone que las especies cambian a lo largo del tiempo a través de la selección natural. Los procesos evolutivos pueden incluir mutaciones genéticas, deriva genética y flujo génico.</p>
+    </section>
+    <section>
+      <h2>Adaptación</h2>
+      <p>Las adaptaciones son características heredadas que mejoran la supervivencia y reproducción en un entorno específico. Pueden ser estructurales, fisiológicas o de comportamiento, y son el resultado de la selección natural.</p>
+    </section>
+    <section>
+      <h2>Nutrición</h2>
+      <p>Los seres vivos obtienen nutrientes para su crecimiento y funcionamiento. La nutrición puede ser autótrofa (producir su propio alimento, como las plantas) o heterótrofa (consumir otros organismos o sustancias orgánicas).</p>
+    </section>
+    <section>
+      <h2>Metabolismo</h2>
+      <p>El metabolismo es el conjunto de procesos químicos que ocurren en un organismo para mantener la vida. Incluye anabolismo (construcción de moléculas) y catabolismo (descomposición de moléculas para obtener energía).</p>
+    </section>
+    <section>
+      <h2>Crecimiento</h2>
+      <p>El crecimiento implica un aumento en tamaño o número de células de un organismo. Se produce por división celular y la síntesis de nuevas moléculas.</p>
+    </section>
+    <section>
+      <h2>Respuesta a Estímulos</h2>
+      <p>Los seres vivos responden a cambios en su entorno mediante procesos como la irritabilidad en organismos unicelulares y respuestas más complejas en organismos multicelulares.</p>
+    </section>
+    <section>
+      <h2>Reproducción</h2>
+      <p>La reproducción asegura la continuidad de la vida. Puede ser asexual (un solo progenitor) o sexual (dos progenitores). La variabilidad genética resultante de la reproducción sexual es crucial para la evolución.</p>
+    </section>
+    <section>
+      <h2>Mecanismos de Existencia</h2>
+      <p>Incluyen la homeostasis (mantenimiento del equilibrio interno), la capacidad de adaptarse a cambios en el entorno y la interacción con otros organismos en los ecosistemas.</p>
+    </section>
+    <p>Estos conceptos representan aspectos fundamentales de la biología avanzada y muestran la complejidad y diversidad de la vida en la Tierra. La interconexión de estos procesos es esencial para comprender la biología en su totalidad.</p>
+  </div>
+</body>
+</html>
