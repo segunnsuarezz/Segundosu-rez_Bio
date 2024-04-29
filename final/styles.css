@@ -1,0 +1,176 @@
+
+/* Estilos para la página de biología */
+
+/* Fondo */
+body {
+    background-color: #E6F7FF; /* Azul claro */
+}
+
+/* Encabezado */
+header {
+    background-color: #4CAF50; /* Verde */
+    color: #FFFFFF; /* Blanco */
+    padding: 20px;
+    text-align: center;
+}
+
+/* Navegación */
+nav {
+    background-color: #008C9E; /* Turquesa */
+    color: #FFFFFF; /* Blanco */
+    padding: 10px;
+    text-align: center;
+}
+
+/* Enlaces */
+nav a {
+    color: #FFFFFF; /* Blanco */
+    text-decoration: none;
+    margin: 0 10px;
+    padding: 5px 10px;
+    background-color: #008C9E; /* Turquesa */
+    border-radius: 5px; /* Bordes redondeados */
+}
+
+/* Enlace activo */
+nav a.active {
+    font-weight: bold;
+}
+
+/* Contenido principal */
+main {
+    padding: 20px;
+}
+
+/* Sección */
+section {
+    margin-bottom: 20px;
+}
+
+/* Título de la sección */
+section h2 {
+    color: #FFFFFF; /* Blanco */
+    background-color: #333; /* Color oscuro */
+    padding: 10px;
+    border-radius: 5px; /* Bordes redondeados */
+}
+
+/* Texto */
+p {
+    line-height: 1.5;
+    background-color: #F5F5F5; /* Gris claro */
+    padding: 10px;
+    border-radius: 5px; /* Bordes redondeados */
+}
+
+/* Lista */
+ul {
+    list-style-type: square;
+}
+
+/* Pie de página */
+footer {
+    background-color: #4CAF50; /* Verde */
+    color: #00000000; /* Blanco */
+    padding: 10px;
+    text-align: center;
+}
+
+
+        body {
+            background-color: #64d10c; /* Color de fondo de la página */
+            font-family: Arial, sans-serif;
+            color: #333; /* Color del texto */
+        }
+        header {
+            background-color: #4CAF50;
+            color: #FFF;
+            text-align: center;
+            padding: 20px;
+        }
+        nav {
+            background-color: #008C9E;
+            color: #ffffff6f;
+            text-align: center;
+            padding: 10px;
+        }
+        nav a {
+            color: #ffffff;
+            text-decoration: none;
+            margin: 0 10px;
+            padding: 5px 10px;
+            background-color: #4CAF50;
+            border-radius: 5px;
+        }
+        p {
+            font-size: 20px;
+            text-align: center;
+            padding: 20px;
+        }
+        footer {
+            background-color: #4CAF50;
+            color: #010101;
+            text-align: center;
+            padding: 10px;
+
+            bottom: 0;
+            width: 100%;
+        }
+
+        body {
+            background-color: #64d10c; /* Color de fondo de la página */
+            font-family: Arial, sans-serif;
+            color: #333; /* Color del texto */
+        }
+        header {
+            background-color: #4CAF50;
+            color: #FFF;
+            text-align: center;
+            padding: 20px;
+        }
+        nav {
+            background-color: #008C9E;
+            color: #ffffff6f;
+            text-align: center;
+            padding: 10px;
+        }
+        nav a {
+            color: #ffffff;
+            text-decoration: none;
+            margin: 0 10px;
+            padding: 5px 10px;
+            background-color: #4CAF50;
+            border-radius: 5px;
+        }
+        p {
+            font-size: 20px;
+            text-align: justify;
+            padding: 20px;
+        }
+        footer {
+            background-color: #4CAF50;
+            color: #010101;
+            text-align: center;
+            padding: 10px;
+            width: 100%;
+        }
+    
+
+        h2 {
+            line-height: 1.5;
+            background-color: #130739; /* Gris claro */
+            padding: 10px;
+            border-radius: 5px; /* Bordes redondeados */
+            font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+            color:#64d10c;
+            text-align: center;
+            font-size: 2em;
+        }
+.videos{
+    display: flex;
+    justify-content: center;
+    gap: 1em;
+}
+.space{
+    height: 10vw;
+}
